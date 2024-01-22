@@ -1,4 +1,4 @@
-module githuh.com/dmars8047/uuidgen
+module github.com/dmars8047/uuidgen
 
 go 1.20
 
